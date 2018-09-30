@@ -1,0 +1,6 @@
+body {background: #20262e; color: #b3ddca}
+.container { display: flex; justify-content: space-around; flex-flow:row; flex-wrap: wrap; max-width: 600px; margin:0 auto; text-align:center; }
+.info {flex: 1 100%; font-size: .9em; padding:.8em; margin-bottom:1em; border-radius: 1.2em; border:1px solid #b3ddca }
+.number { width: 64px }
+.column {flex: 1 50%;}
+.hidden {display: none}
